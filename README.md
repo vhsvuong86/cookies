@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pup-face
 A simple facebook example with Puppeteer:
 https://github.com/GoogleChrome/puppeteer
@@ -27,3 +28,6 @@ Save file as: creds.js
 ```
 node index
 ```
+=======
+"# cookies" 
+>>>>>>> first commit
